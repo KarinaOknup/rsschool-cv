@@ -12,7 +12,6 @@ I studying in BSUIR on budget on FIK(now i started the 2nd course).In the progra
 - HTML/CSS
 ### Code examples
 This part from my course work connected with OOP on C++
-
 /////PolyClass.h
 ```sh
 class PolyClass

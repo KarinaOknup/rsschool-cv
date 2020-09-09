@@ -1,1 +1,1 @@
- https://KarinaOknup.github.io/rsschool-cv/index
+ https://KarinaOknup.github.io/rsschool-cv/cv
